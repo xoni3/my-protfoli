@@ -1,0 +1,132 @@
+.top-head{
+    font-family: 'Yeon Sung', cursive;;
+    font-weight: bolder;
+    color: red;
+    font-size: 50px;
+    text-align: center;
+    background-color: khaki;
+    margin: 2px;
+    
+}
+.top-head-dui{
+    text-align: center;
+    color: lightcoral;
+    font-size: 30px;
+    margin: 0px;
+    font-family: 'Yeon Sung', cursive;;;
+}
+.dog{
+    color: gold;
+}
+.half{
+    width: 45%;
+    float: left; 
+    margin-left: 30px;
+    margin-top: 40px; 
+}
+h1{
+    font-size: 40px;
+   margin-top: 50px;
+   margin-bottom: 50px;
+   
+}
+h2{
+    color: tomato;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+.para{
+    font-size: 20px;
+    margin-top: 5px;
+}
+.top-banner{
+    background-image: url("images/dogu.jpg");
+    background-repeat: no-repeat;
+    background-size: 1400px 800px;
+    margin-top: 0px;
+    opacity: none;
+    
+}
+section{
+    height: 500px;
+    padding: 30px;
+}
+.kut{
+    width: 100%;
+}
+h3{
+    color: tomato;
+}
+
+.haf{
+    width: 45%;
+    float: left; 
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.haf h2{
+    color: black;
+}
+
+.kutta{
+    float: right;
+    width: 100%;
+}
+h2{
+    margin-top: 70px;
+}
+.top-ban{
+    background-image: url("images/dogu.jpg");
+    background-repeat: no-repeat;
+    background-size: 1400px 800px;
+    margin-top: 10px;
+}
+section{
+    height: 500px;
+    padding: 30px;
+}
+.link{
+    text-decoration: none;
+    background-color: yellow;
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 5px 10px;
+    background-image: linear-gradient(45deg, yellow,tomato);
+}
+
+.buying-area h2{
+    color: saddlebrown;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+.twic{
+    width: 30%;
+    float: left;
+}
+.twic h3{
+    color: skyblue;
+    font-size: 25px;
+}
+.twic p{
+    font-size: 18px;
+    margin-left: 2px;
+}
+.kuta{
+    text-decoration: none;
+    background-color: yellow;
+    padding: 5px 10px;
+    font-weight: bold;
+    background-image: linear-gradient(45deg, rgb(99, 204, 236), rgb(135, 235, 182));
+}
+#third-box p{
+    margin-bottom: 42px;
+}
+#second-box p{
+    margin-bottom: 22px;
+}
+.inq{
+    text-align: center;
+    margin-top: 200px;
+    background-image: url("images/f.png");
+    background-repeat: none;

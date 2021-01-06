@@ -157,4 +157,18 @@ section{
 footer{
     text-align: center;
     margin-top: 0px;
+    margin-bottom: 50px;
 }
+ul {
+    list-style-type: none;
+    color: greenyellow;
+  }
+  .ku{
+      color: gold;
+  }
+  .buying-area h2{
+    font-family: 'Noto Sans', sans-serif;
+  }
+  i{
+      position: center;
+  }
